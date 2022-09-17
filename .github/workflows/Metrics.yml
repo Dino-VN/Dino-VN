@@ -25,10 +25,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: brokiem
+          user: Dino-VN
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Makassar
+          config_timezone: Asia/Ho-Chi-Minh
           plugin_achievements: false
           plugin_achievements_display: compact
           plugin_achievements_secrets: true
